@@ -27,7 +27,7 @@ A modern and responsive **Agent AI Clone UI** built using **React** and **Tailwi
 ![Laptop Light](./screenshots/Light%20Theme%20-%20Laptop%20View.png)
 
 #### 📱 Mobile View
-![Mobile Light](./screenshots/Light%20Theme-%20Mobile%20View.png)
+![Mobile Light](./screenshots/Light%20Theme%20-%20Mobile%20View.png)
 
 ---
 
